@@ -1,0 +1,128 @@
+[33mcommit 5aa1a6c4298ef4b923b0ed43047777d270ff29a0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: fd48968 16f5e6d
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Tue Jan 14 23:40:17 2025 +0530
+
+    Merge pull request #4 from thevipulvats/master
+    
+    across
+
+[33mcommit 16f5e6d56c685cb124fe52ab1a5f3780fea0870a[m
+Author: thevipulvats <99461327+thevipulvats@users.noreply.github.com>
+Date:   Tue Dec 17 20:36:58 2024 +0530
+
+    oath2
+
+[33mcommit 7fd52fcfb837c7b2887fcc0f3a59de8e5d5d4f9d[m
+Author: thevipulvats <99461327+thevipulvats@users.noreply.github.com>
+Date:   Thu Sep 12 01:48:32 2024 +0530
+
+    swagger
+
+[33mcommit 7a06d53e88ed6c4fc60a4f613edfd89cdcc3b322[m
+Author: thevipulvats <99461327+thevipulvats@users.noreply.github.com>
+Date:   Mon Jul 15 02:06:12 2024 +0530
+
+    logging in health check
+
+[33mcommit 9920a2617ac1edf96872062fba70c49b01038a0a[m
+Author: thevipulvats <99461327+thevipulvats@users.noreply.github.com>
+Date:   Mon Jul 15 01:23:31 2024 +0530
+
+    port
+
+[33mcommit 3fa411bbdf551871b7b1151180aa8fd64614403d[m
+Author: thevipulvats <99461327+thevipulvats@users.noreply.github.com>
+Date:   Mon Jul 15 01:22:17 2024 +0530
+
+    port
+
+[33mcommit 84da0d397f284d0562288a3b662519d33fcbc9e9[m
+Author: thevipulvats <99461327+thevipulvats@users.noreply.github.com>
+Date:   Mon Jul 15 01:20:14 2024 +0530
+
+    application.yml file added
+
+[33mcommit ccc786f318493b62017880498288321b82cf8914[m
+Author: thevipulvats <99461327+thevipulvats@users.noreply.github.com>
+Date:   Sun Jul 14 23:44:04 2024 +0530
+
+    testing git
+
+[33mcommit fd48968a6d43f7795bba31bfd5fa7489ea6cde29[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Sun Jul 14 23:05:23 2024 +0530
+
+    kafka fallback
+
+[33mcommit 09b1d2fd72bdf0f063e3a65dbadb92c2ab90bbe2[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Mon Jun 3 00:22:35 2024 +0530
+
+    adds jwt
+
+[33mcommit a1be092d4144c9ea59790514e968af2ccfcaa6c7[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Thu May 23 15:06:03 2024 +0530
+
+    kafka
+
+[33mcommit 7f28f4e556e01aa6e520059b793ea558421b877d[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Tue Apr 2 15:16:03 2024 +0530
+
+    redis
+
+[33mcommit b446f638a25cd09c28d134c2797ffc181a5241ce[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Tue Jan 2 08:48:28 2024 +0530
+
+    adds crons and sentiment analysis
+
+[33mcommit 5b13713bfe9634a5d6eed6040a14be9e4c3aa65b[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Mon Dec 25 20:16:20 2023 +0530
+
+    adds email service
+
+[33mcommit 0c7d1da5eb5a74a8d01c13e7636b48e15de2b16d[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Mon Dec 25 20:15:47 2023 +0530
+
+    adds email service
+
+[33mcommit bbd96c02ef40e6713408a10b047dff1477444669[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Sun Dec 24 16:11:34 2023 +0530
+
+    adds email and sentimentAnalysis fields to users collection
+
+[33mcommit 45647c6a2aff1de48a40672edb33cf5cab824f2a[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Wed Dec 20 22:37:22 2023 +0530
+
+    removes sa
+
+[33mcommit 2f1d217ba7606787c7542057a0a9c62162fbf526[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Wed Dec 20 22:35:01 2023 +0530
+
+    criteria
+
+[33mcommit fba95721a181fbf732a19e50e793883dd0da8111[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Sun Dec 10 21:57:09 2023 +0530
+
+    adds build.yml
+
+[33mcommit 1c64858e0c080175c383173a02f9af6ca54e0fe3[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Sun Dec 10 21:49:59 2023 +0530
+
+    adds sonar properties in yml
+
+[33mcommit 570519ad3fef4c142e67457cfa627ee4a4f5e048[m
+Author: chotabheeeeem <152039138+chotabheeeeem@users.noreply.github.com>
+Date:   Sun Dec 10 21:37:26 2023 +0530
+
+    first commit
